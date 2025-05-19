@@ -1,2 +1,2 @@
-# Atividas 
+# Atividades 
 EXERCÍCIO DE CSS
